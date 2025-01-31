@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdullah Al Mamun</h1>
+<h1 align="r">Hi 👋, I'm Abdullah Al Mamun</h1>
 <h3 align="center">Fullstack Web Developer | Backend Specialist | Building Scalable and Efficient Web Applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalmamun-dev&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalmamun-dev" /> </p>
