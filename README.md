@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalmamun-dev&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalmamun-dev" /> </p>
 
-- 🌱 I’m currently learning **Redux , Motion , Mongoose**
+- 🌱 I’m currently learning **Redux , Python, Django , Mongoose**
 
 - 👨‍💻 All of my projects are available at [https://abdullahalmamun.tech/](https://abdullahalmamun.tech/)
 
