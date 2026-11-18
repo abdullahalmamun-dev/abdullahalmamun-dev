@@ -19,7 +19,7 @@ Full Stack Software Engineer with a focus on backend development. I work at **In
 I specialize in real-time communication systems, voice infrastructure, and high-throughput backend services.
 
 - 🔭 Currently working at **InstaCall LLC** on telecom & Voice AI products
-- 🌍 Based in **Dhaka, Bangladesh** · Open to remote opportunities
+- 🌍 Based in **Dhaka, Bangladesh**
 - 💬 Ask me about **Node.js, TypeScript, VoIP, WebRTC, PostgreSQL**
 
 ---
@@ -87,7 +87,7 @@ Built and maintained web applications for clients across e-commerce, healthcare,
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=abdullahalmamun-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalmamun-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalmamun-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=php,html,css,shell,dockerfile,makefile" height="150"/>
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=abdullahalmamun-dev&theme=dark&hide_border=true)
 
