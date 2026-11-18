@@ -86,10 +86,15 @@ Built and maintained web applications for clients across e-commerce, healthcare,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdullahalmamun-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalmamun-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=php,html,css,shell,dockerfile,makefile" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abdullahalmamun-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="160" alt="stats"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalmamun-dev&theme=dark&hide_border=true&layout=compact&langs_count=6&hide=php,html,css,shell,dockerfile,makefile,solidity,hack,powershell" height="160" alt="langs"/>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=abdullahalmamun-dev&theme=dark&hide_border=true)
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=abdullahalmamun-dev&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak"/>
 
 </div>
 
@@ -99,7 +104,7 @@ Built and maintained web applications for clients across e-commerce, healthcare,
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=abdullahalmamun-dev&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1)
+<img src="https://github-profile-trophy.vercel.app/?username=abdullahalmamun-dev&theme=darkhub&no-frame=true&margin-w=4&row=1&column=7" alt="trophies"/>
 
 </div>
 
